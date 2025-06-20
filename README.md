@@ -1,1 +1,49 @@
-https://camo.githubusercontent.com/504a4c6f7e157a9df5b4dfdf56ce65d83c2035891232ca39d55fe04336ff1633/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65
+![Banner](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=1200&q=80)
+
+---
+
+## 🚀 Sobre mim
+
+- 👨‍💻 Programador iniciante focado em bots para Discord
+- 🤖 Trabalho principalmente com **aoi.js**
+- 🌱 Aprendendo **discord.js** e **HTML** para ampliar meus projetos
+- 📫 Me encontre no Discord [soneca.71](https://discord.com/users/745614232925503508)
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![nxcz7 GitHub stats](https://github-readme-stats.vercel.app/api?username=nxcz7&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxzp&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas que uso
+
+![AOI.js](https://img.shields.io/badge/AOI.js-Blue?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
+---
+
+## 📫 Como me encontrar
+
+[![Discord](https://img.shields.io/badge/Discord-nxcz7%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3WmcrGzRJV)
+
+---
+
+## 🎯 Objetivos para 2025
+
+- Aprender **discord.js** profundamente
+- Criar bots mais complexos e úteis para comunidades
+- Aprimorar meus conhecimentos em **HTML** e **Discord.js**
+- Compartilhar conhecimento e ajudar outros iniciantes
+
+---
+
+## ⚡ Curiosidade
+
+> “Todo bot começou como uma linha de código simples.”  
+> Vou construir algo incrível ainda!
+
+---
