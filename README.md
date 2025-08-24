@@ -7,7 +7,7 @@
 - 👨‍💻 Programador iniciante focado em bots para Discord
 - 🤖 Trabalho principalmente com **aoi.js**
 - 🌱 Aprendendo **discord.js** e **HTML** para ampliar meus projetos
-- 📫 Me encontre no Discord [soneca.71](https://discord.com/users/745614232925503508)
+- 📫 Me encontre no Discord [71sono.](https://discord.com/users/745614232925503508)
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
