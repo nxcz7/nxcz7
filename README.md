@@ -28,7 +28,7 @@
 
 ## 📫 Como me encontrar
 
-[![Discord](https://img.shields.io/badge/Discord-soneca.71%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jTKrvDnf)
+[![Discord](https://img.shields.io/badge/Discord-71sono.%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/H8wGgMYWAh)
 
 ---
 
